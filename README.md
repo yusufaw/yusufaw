@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on ... telescope? 🤔
-- 📫 How to reach me: [yusufaw.me](yusufaw.me)
+- 📫 How to reach me: [yusufaw.me](http://yusufaw.me)
 <!--
 **yusufaw/yusufaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
